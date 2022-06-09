@@ -1,5 +1,5 @@
 <script lang="ts">
-  let
+
 </script>
 
 <div class="alu-container">
